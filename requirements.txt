@@ -1,0 +1,11 @@
+# Core Python dependencies for AutoSAR Dock
+# RDKit is often best installed with conda/mamba.
+pandas
+openpyxl
+matplotlib
+Pillow
+
+# Chemistry/docking executables are external:
+# - Open Babel (`obabel`)
+# - AutoDock Vina (`vina`)
+# - PyMOL Open Source (`pymol`, optional)

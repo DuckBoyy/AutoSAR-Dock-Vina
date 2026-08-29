@@ -1,0 +1,13 @@
+name: autosardock
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit
+  - openbabel
+  - pandas
+  - openpyxl
+  - matplotlib
+  - pillow
+  - pymol-open-source
+  - pip
